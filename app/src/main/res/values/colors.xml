@@ -1,36 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated from afnon-mihrab/tokens.json by site/scripts/tokens.mjs. Do not edit: run `npm run tokens` in site/. -->
 <resources>
-    <color name="lapis_950">#ff0a1730</color>
-    <color name="lapis_900">#ff0c1b33</color>
-    <color name="lapis_800">#ff12264a</color>
-    <color name="lapis_700">#ff1a3360</color>
-    <color name="gold_400">#ffd8b46a</color>
-    <color name="gold_200">#fff0d79c</color>
-    <color name="plaster_100">#ffefe7d6</color>
-    <color name="mist_400">#ff9fb0cc</color>
-    <color name="disabled_text">#ff6f7f9c</color>
-    <color name="lapis_800_60">#9912264a</color>
-    <color name="gold_400_60">#99d8b46a</color>
-    <color name="line_soft">#40efe7d6</color>
-    <color name="line_dash">#4defe7d6</color>
-    <color name="arch_inner">#73d8b46a</color>
-    <color name="bell_off_border">#669fb0cc</color>
-    <color name="banner_track">#40d8b46a</color>
-    <color name="seg_track_focused">#260c1b33</color>
-    <color name="qibla_ring">#1aefe7d6</color>
-    <color name="qibla_tick">#80efe7d6</color>
-    <color name="scrim">#f0081224</color>
-    <color name="scrim_menu">#eb0c1b33</color>
-    <color name="scrim_panel">#b8060d1a</color>
-    <color name="pattern_line">#12d8b46a</color>
-    <color name="on_plaster_label">#ff5a4a22</color>
-    <color name="on_plaster_secondary">#ff3d4a63</color>
-    <color name="on_plaster_border">#990c1b33</color>
-    <color name="on_plaster_button_border">#590c1b33</color>
-    <color name="screensaver_ground">#ff000000</color>
-    <color name="screensaver_text">#ffa69f90</color>
-    <color name="screensaver_text_dim">#ff7d7769</color>
-    <color name="screensaver_next">#ffb8a578</color>
-    <color name="screensaver_arch_line">#59d8b46a</color>
+    <color name="bg_navy">#0C1B33</color>
+    <color name="accent_gold">#D4AF6A</color>
+    <color name="card_bg">#152A4A</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gold">#D4AF6A</color>
 </resources>
