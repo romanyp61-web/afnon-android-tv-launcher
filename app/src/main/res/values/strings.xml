@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Afnon</string>
-    <string name="remote_keys">Afnon remote buttons</string>
-    <string name="remote_keys_description">Makes the remote\'s app, Settings, Input and All apps buttons work with Afnon as the home screen.</string>
+    <string name="app_name">أجبية TV</string>
+    <string name="footer_verse">«بارِك يا رب هذا البيت نهارًا وليلًا» - ١ ملوك ٨: ٢٩</string>
+    <string name="footer_names">إيلينا وكيفين</string>
+    <string name="agpeya_title">صلوات الأجبية</string>
+    <string name="coptic_calendar">التقويم القبطي</string>
+    <string name="daily_readings">قراءات اليوم والسنكسار</string>
 </resources>
