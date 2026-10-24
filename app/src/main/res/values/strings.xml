@@ -1,4 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- النصوص الخاصة بنا -->
     <string name="app_name">أجبية TV</string>
     <string name="footer_verse">✝️ بارِك يا رب هذا البيت نهارًا وليلًا ➕ إيلينا وكيفين</string>
+
+    <!-- النصوص الأساسية المتطلبة للنظام والريموت -->
+    <string name="remote_keys">مفاتيح التحكم</string>
 </resources>
