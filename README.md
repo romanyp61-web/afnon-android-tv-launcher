@@ -1,6 +1,6 @@
 <div align="center">
 
-# Afnon · أفنون 
+# Afnon · أفنون m
 
 **An Android TV home screen built around the prayer day.**
 
