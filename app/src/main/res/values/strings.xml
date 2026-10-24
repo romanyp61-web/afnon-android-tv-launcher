@@ -4,6 +4,7 @@
     <string name="app_name">أجبية TV</string>
     <string name="footer_verse">✝️ بارِك يا رب هذا البيت نهارًا وليلًا ➕ إيلينا وكيفين</string>
 
-    <!-- النصوص الأساسية المتطلبة للنظام والريموت -->
+    <!-- النصوص المطلوبة للنظام والريموت -->
     <string name="remote_keys">مفاتيح التحكم</string>
+    <string name="remote_keys_description">تخصيص أزرار ريموت التلفزيون</string>
 </resources>
