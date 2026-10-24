@@ -2,7 +2,6 @@
 <resources>
     <color name="bg_navy">#0C1B33</color>
     <color name="accent_gold">#D4AF6A</color>
-    <color name="card_bg">#152A4A</color>
     <color name="text_white">#FFFFFF</color>
-    <color name="text_gold">#D4AF6A</color>
+    <color name="card_bg">#152A4A</color>
 </resources>
