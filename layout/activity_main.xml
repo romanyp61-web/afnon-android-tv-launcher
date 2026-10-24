@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_navy"
+    android:layout_direction="rtl">
+
+    <!-- الجزء العلوي: عنوان اللانچر والتاريخ القبطي -->
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textColor="@color/text_gold"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_coptic_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="السبت ١٤ بابة ١٧٤٣ للشهداء"
+            android:textColor="@color/text_white"
+            android:textSize="18sp"
+            android:layout_marginTop="5dp" />
+    </LinearLayout>
+
+    <!-- الجزء السفلي: الفوتر المخصص بالآية والأسماء -->
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#071020"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="✝️ بارِك يا رب هذا البيت نهارًا وليلًا ➕ إيلينا وكيفين"
+            android:textColor="@color/text_gold"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="«لتكن عيناك مفتوحتين على هذا البيت ليلًا ونهارًا» - ١ ملوك ٨: ٢٩"
+            android:textColor="@color/text_white"
+            android:textSize="14sp"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+</RelativeLayout>
