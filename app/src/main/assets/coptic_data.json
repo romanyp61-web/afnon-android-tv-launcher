@@ -1,15 +1,26 @@
-{
-  "agpeya_hours": [
-    {"id": 1, "name": "باكر", "time": "06:00"},
-    {"id": 2, "name": "الثالثة", "time": "09:00"},
-    {"id": 3, "name": "السادسة", "time": "12:00"},
-    {"id": 4, "name": "التاسعة", "time": "15:00"},
-    {"id": 5, "name": "الغروب", "time": "17:00"},
-    {"id": 6, "name": "النوم", "time": "21:00"},
-    {"id": 7, "name": "نصف الليل", "time": "00:00"}
-  ],
-  "default_fasting": "صوم الميلاد المجيد",
-  "footer_verse": "بارِك يا رب هذا البيت نهارًا وليلًا",
-  "footer_verse_source": "١ ملوك ٨: ٢٩",
-  "footer_names": "إيلينا وكيفين"
-}
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/bg_navy"
+    android:layout_direction="rtl">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/accent_gold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="✝️ بارِك يا رب هذا البيت نهارًا وليلًا ➕ إيلينا وكيفين"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>
